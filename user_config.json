@@ -1,4 +1,10 @@
 {
+    "CaseSensitive": false,
     "EpubFont": "微软雅黑",
-    "ShowMode": 0
+    "ShowMode": 0,
+    "TextFrame": {
+        "Color": "ffff8280"
+    },
+    "TextFrameFontSize": 10,
+    "WholeWord": true
 }
